@@ -1,5 +1,7 @@
 # stock_scraper
 Get stock quotes from Google.
+# add hashbang line for pythonanywhere
+#!/usr/bin/env python2.7
 
 import urllib
 import re
